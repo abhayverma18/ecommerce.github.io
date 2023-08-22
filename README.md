@@ -1,4 +1,4 @@
 # ecommerce.github.io
 
-eecommercee.netlify.app
+https://app.netlify.com/sites/eecommercee/configuration/general
 
